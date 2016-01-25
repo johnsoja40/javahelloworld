@@ -26,6 +26,8 @@ public class JavaHelloWorld {
 		System.out.println(" ");
 		System.out.println("I love my daughter Sarah Lynn Johnson");
 		System.out.println(" ");
+		System.out.println("Fuck you Kris");
+		System.out.println(" ");
 		
     }
 
